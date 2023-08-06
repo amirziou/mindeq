@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/static/js/main.985a678f.js",
+    "static/js/286.1c469f27.js": "/static/js/286.1c469f27.js",
+    "static/media/lelogo2.png": "/static/media/lelogo2.5810a6bf182e20eb326d.png",
+    "favicon.ico": "/favicon.ico",
+    "index.html": "/index.html",
+    "favicon-32.png": "/favicon-32.png",
+    "favicon-16.png": "/favicon-16.png",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "main.985a678f.js.map": "/static/js/main.985a678f.js.map",
+    "286.1c469f27.js.map": "/static/js/286.1c469f27.js.map"
+  },
+  "entrypoints": [
+    "static/js/286.1c469f27.js",
+    "static/js/main.985a678f.js"
+  ]
+}
